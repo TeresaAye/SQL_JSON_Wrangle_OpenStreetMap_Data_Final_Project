@@ -1,0 +1,37 @@
+I selected Zen Nashville Raw OpenStreet DataSet which is 20Mb compressed OSM XML file type 
+It expands to 283Mb when uncompressed.
+The report is based on that full data file.
+All the results in the report are based on the full nashville_tennessee.osm file, not the sample_100.osm file that was submitted in the zip file.
+
+I read the Openstreetmap documentation here: http://wiki.openstreetmap.org/wiki/OSM_XML 
+I made sure I understood nodes, ways and relations
+
+I downloaded it from https://mapzen.com/data/metro-extracts/metro/nashville_tennessee/
+
+I selected Nashville because it is one of the smaller file sizes, so it will be easier to manage, because I have been to Nashville, so I can identify with it, and because I wanted to learn more about Nashville.
+During this project, I pretended that I was an employee of the municipality of Nashville, and I thought about what types of questions I would want answered through the data.
+
+I unzipped Nashville using 7-zip.
+I create smaller sample.osm files using the course provided code in the Project Details. 
+I created sample_100, 1000, 5000 and 10000.
+I converted all of those to sqlite, as well as the full nashville_tennessee.osm
+
+For example, this is how I converted the sample_5000.osm to sqlite:
+     Cmd to get to the command prompt.
+     Cd c:\da\da p3\da p3 project
+     Sqlite3 sample_5000.db
+     osmsqlite import OSMFILE.osm OSMDB.db
+
+Then I tried running the audit code against the database:
+     First I tried sample_10000 but it was too small, so I tried 5000 for my testing. 
+     It was still too small... and down the line, 
+     until I decided that the full nashville_tennessee.osm was not too big. It did not take that long to process the queries.
+     However, per the instructions, I had to submit the sample_100.osm file in the zip file
+
+Using audit.py against the smaller files:
+a.	I learned that looking for “addr:street” did not find all of the street names. There were only 2 in my sample_5000.osm file and the value of both was “Drive” which was an expected answer, and so my return dictionary was empty. 
+b.	When I used the full .osm file, there were more and there were some unexpected, so my returned dict was not empty. That’s how I learned that it was best to use the full .osm file unless I was running code that was taking an inordinate amount of time. None of my queries took an inordinate amount of time. I built print statements into my queries so that I could see that the code was running.
+
+
+
+

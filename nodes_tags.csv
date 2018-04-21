@@ -1,0 +1,1397 @@
+id,key,value,type
+32958566,created_by,JOSM,regular
+32959464,created_by,JOSM,regular
+53659240,power,tower,regular
+53689021,railway,level_crossing,regular
+153366973,ele,238,regular
+153366973,name,Vannatta,regular
+153366973,is_in,"Bedford,Tennessee,Tenn.,TN,USA",regular
+153366973,place,hamlet,regular
+153366973,id,1314453,gnis
+153366973,Class,Populated Place,gnis
+153366973,County,Bedford,gnis
+153366973,ST_num,47,gnis
+153366973,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153366973,ST_alpha,TN,gnis
+153366973,County_num,003,gnis
+153412689,ele,231,regular
+153412689,name,Duplex,regular
+153412689,is_in,"Williamson,Tennessee,Tenn.,TN,USA",regular
+153412689,place,hamlet,regular
+153412689,id,1314986,gnis
+153412689,Class,Populated Place,gnis
+153412689,County,Williamson,gnis
+153412689,ST_num,47,gnis
+153412689,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153412689,ST_alpha,TN,gnis
+153412689,County_num,187,gnis
+153446416,ele,315,regular
+153446416,name,Wixtown,regular
+153446416,is_in,"Macon,Tennessee,Tenn.,TN,USA",regular
+153446416,place,hamlet,regular
+153446416,id,1274924,gnis
+153446416,Class,Populated Place,gnis
+153446416,County,Macon,gnis
+153446416,ST_num,47,gnis
+153446416,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153446416,ST_alpha,TN,gnis
+153446416,County_num,111,gnis
+153462578,created_by,JOSM,regular
+153489758,ele,217,regular
+153489758,name,Lees Corner,regular
+153489758,is_in,"Maury,Tennessee,Tenn.,TN,USA",regular
+153489758,place,hamlet,regular
+153489758,id,1315374,gnis
+153489758,Class,Populated Place,gnis
+153489758,County,Maury,gnis
+153489758,ST_num,47,gnis
+153489758,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153489758,ST_alpha,TN,gnis
+153489758,County_num,119,gnis
+153515915,ele,263,regular
+153515915,name,Lone Oak,regular
+153515915,is_in,"Williamson,Tennessee,Tenn.,TN,USA",regular
+153515915,place,hamlet,regular
+153515915,id,1312527,gnis
+153515915,Class,Populated Place,gnis
+153515915,County,Williamson,gnis
+153515915,ST_num,47,gnis
+153515915,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153515915,ST_alpha,TN,gnis
+153515915,County_num,187,gnis
+153547831,ele,158,regular
+153547831,name,Shackle Island,regular
+153547831,is_in,"Sumner,Tennessee,Tenn.,TN,USA",regular
+153547831,place,hamlet,regular
+153547831,id,1315896,gnis
+153547831,Class,Populated Place,gnis
+153547831,County,Sumner,gnis
+153547831,ST_num,47,gnis
+153547831,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153547831,ST_alpha,TN,gnis
+153547831,County_num,165,gnis
+153568130,ele,148,regular
+153568130,name,Meadowvale,regular
+153568130,is_in,"Sumner,Tennessee,Tenn.,TN,USA",regular
+153568130,place,hamlet,regular
+153568130,id,1311942,gnis
+153568130,Class,Populated Place,gnis
+153568130,County,Sumner,gnis
+153568130,ST_num,47,gnis
+153568130,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153568130,ST_alpha,TN,gnis
+153568130,County_num,165,gnis
+153603234,ele,316,regular
+153603234,name,Smithville,regular
+153603234,is_in,"DeKalb,Tennessee,Tenn.,TN,USA",regular
+153603234,place,village,regular
+153603234,id,1313778,gnis
+153603234,Class,Populated Place,gnis
+153603234,population,4198,regular
+153603234,County,DeKalb,gnis
+153603234,ST_num,47,gnis
+153603234,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153603234,ST_alpha,TN,gnis
+153603234,County_num,041,gnis
+153603234,population,4198;2006,census
+153635412,ele,168,regular
+153635412,name,Woods Valley,regular
+153635412,is_in,"Dickson,Tennessee,Tenn.,TN,USA",regular
+153635412,place,hamlet,regular
+153635412,id,1275092,gnis
+153635412,Class,Populated Place,gnis
+153635412,County,Dickson,gnis
+153635412,ST_num,47,gnis
+153635412,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153635412,ST_alpha,TN,gnis
+153635412,County_num,043,gnis
+153675880,ele,225,regular
+153675880,name,Clay Hill,regular
+153675880,is_in,"Marshall,Tennessee,Tenn.,TN,USA",regular
+153675880,place,hamlet,regular
+153675880,id,1314852,gnis
+153675880,Class,Populated Place,gnis
+153675880,County,Marshall,gnis
+153675880,ST_num,47,gnis
+153675880,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153675880,ST_alpha,TN,gnis
+153675880,County_num,117,gnis
+153698712,ele,193,regular
+153698712,name,Ridley,regular
+153698712,is_in,"Maury,Tennessee,Tenn.,TN,USA",regular
+153698712,place,hamlet,regular
+153698712,id,1299418,gnis
+153698712,Class,Populated Place,gnis
+153698712,County,Maury,gnis
+153698712,ST_num,47,gnis
+153698712,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153698712,ST_alpha,TN,gnis
+153698712,County_num,119,gnis
+153731615,ele,181,regular
+153731615,name,Meadorville,regular
+153731615,is_in,"Macon,Tennessee,Tenn.,TN,USA",regular
+153731615,place,hamlet,regular
+153731615,id,1315493,gnis
+153731615,Class,Populated Place,gnis
+153731615,County,Macon,gnis
+153731615,ST_num,47,gnis
+153731615,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153731615,ST_alpha,TN,gnis
+153731615,County_num,111,gnis
+153757463,ele,225,regular
+153757463,name,Jason Chapel,regular
+153757463,is_in,"Dickson,Tennessee,Tenn.,TN,USA",regular
+153757463,place,hamlet,regular
+153757463,id,1313335,gnis
+153757463,Class,Populated Place,gnis
+153757463,County,Dickson,gnis
+153757463,ST_num,47,gnis
+153757463,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153757463,ST_alpha,TN,gnis
+153757463,County_num,043,gnis
+153785777,ele,258,regular
+153785777,name,Bates,regular
+153785777,is_in,"Hickman,Tennessee,Tenn.,TN,USA",regular
+153785777,place,hamlet,regular
+153785777,id,1314633,gnis
+153785777,Class,Populated Place,gnis
+153785777,County,Hickman,gnis
+153785777,ST_num,47,gnis
+153785777,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153785777,ST_alpha,TN,gnis
+153785777,County_num,081,gnis
+153811226,ele,230,regular
+153811226,name,Germantown,regular
+153811226,is_in,"Cheatham,Tennessee,Tenn.,TN,USA",regular
+153811226,place,hamlet,regular
+153811226,id,1314262,gnis
+153811226,Class,Populated Place,gnis
+153811226,County,Cheatham,gnis
+153811226,ST_num,47,gnis
+153811226,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153811226,ST_alpha,TN,gnis
+153811226,County_num,021,gnis
+201535026,power,tower,regular
+201982570,highway,turning_circle,regular
+202018555,highway,turning_circle,regular
+202240592,ref,21,regular
+202240592,highway,motorway_junction,regular
+202246905,source,Bing,regular
+202246905,highway,turning_circle,regular
+202303942,highway,turning_circle,regular
+202304575,source,Bing,regular
+202304575,highway,turning_circle,regular
+202305141,highway,turning_circle,regular
+202360586,railway,level_crossing,regular
+202375424,source,Bing,regular
+202375424,highway,turning_circle,regular
+202394884,source,Bing,regular
+202394884,highway,turning_circle,regular
+202402311,highway,turning_circle,regular
+202429382,source,Bing,regular
+202429382,highway,turning_circle,regular
+202459130,highway,turning_circle,regular
+202469787,source,Bing,regular
+202469787,highway,turning_circle,regular
+202491557,source,Bing,regular
+202491557,highway,turning_circle,regular
+202838880,power,tower,regular
+202838880,source,Bing,regular
+202870619,railway,level_crossing,regular
+203206205,highway,turning_circle,regular
+203210529,highway,turning_circle,regular
+203228284,highway,turning_circle,regular
+203252048,highway,turning_circle,regular
+203274915,highway,turning_circle,regular
+203278300,highway,turning_circle,regular
+203281222,highway,turning_circle,regular
+203449397,ele,209,regular
+203449397,name,Floraton,regular
+203449397,is_in,"Rutherford,Tennessee,Tenn.,TN,USA",regular
+203449397,place,hamlet,regular
+203449397,id,1284500,gnis
+203449397,Class,Populated Place,gnis
+203449397,County,Rutherford,gnis
+203449397,ST_num,47,gnis
+203449397,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+203449397,ST_alpha,TN,gnis
+203449397,County_num,149,gnis
+203451278,power,tower,regular
+203456396,highway,turning_circle,regular
+203505915,highway,traffic_signals,regular
+203506619,highway,traffic_signals,regular
+203518579,highway,turning_circle,regular
+203524282,highway,turning_circle,regular
+203559593,highway,turning_circle,regular
+203565775,source,Bing,regular
+203565775,highway,turning_circle,regular
+203574490,source,Bing,regular
+203574490,highway,turning_circle,regular
+203591689,highway,turning_circle,regular
+203630981,power,tower,regular
+203637331,power,tower,regular
+203723189,power,pole,regular
+203767913,source,Bing,regular
+203767913,highway,turning_circle,regular
+203786846,highway,turning_circle,regular
+203806003,railway,level_crossing,regular
+204115640,highway,turning_circle,regular
+204134955,highway,turning_circle,regular
+204135534,highway,traffic_signals,regular
+204148860,highway,stop,regular
+204150364,highway,turning_circle,regular
+204154762,source,Bing,regular
+204154762,highway,turning_circle,regular
+204156585,highway,turning_circle,regular
+204169679,highway,turning_circle,regular
+204178708,source,Bing,regular
+204178708,highway,turning_circle,regular
+263718883,source,county_import_v0.1,regular
+263718883,attribution,USGS 2001 County Boundary,regular
+263721067,source,county_import_v0.1,regular
+263721067,attribution,USGS 2001 County Boundary,regular
+263724020,source,county_import_v0.1,regular
+263724020,attribution,USGS 2001 County Boundary,regular
+263727057,source,county_import_v0.1,regular
+263727057,attribution,USGS 2001 County Boundary,regular
+263729862,source,county_import_v0.1,regular
+263729862,attribution,USGS 2001 County Boundary,regular
+263732201,source,county_import_v0.1,regular
+263732201,attribution,USGS 2001 County Boundary,regular
+263734578,source,county_import_v0.1,regular
+263734578,attribution,USGS 2001 County Boundary,regular
+263737429,source,county_import_v0.1,regular
+263737429,attribution,USGS 2001 County Boundary,regular
+263740021,source,county_import_v0.1,regular
+263740021,attribution,USGS 2001 County Boundary,regular
+263742690,source,county_import_v0.1,regular
+263742690,attribution,USGS 2001 County Boundary,regular
+302475495,highway,traffic_signals,regular
+302475495,crossing,unmarked,regular
+302475495,direction,backward,regular
+302475495,supervised,no,regular
+308018535,ref,10,regular
+308018535,highway,motorway_junction,regular
+316993900,name,Hickman,regular
+316993900,place,county,regular
+356776004,ele,183,regular
+356776004,name,Sivels Cemetery,regular
+356776004,amenity,grave_yard,regular
+356776004,created,05/19/1980,gnis
+356776004,state_id,47,gnis
+356776004,county_id,125,gnis
+356776004,feature_id,1270404,gnis
+356778065,ele,257,regular
+356778065,name,Sulphur Fork Church,regular
+356778065,amenity,place_of_worship,regular
+356778065,religion,christian,regular
+356778065,created,05/19/1980,gnis
+356778065,state_id,47,gnis
+356778065,county_id,165,gnis
+356778065,feature_id,1271782,gnis
+356780061,ele,379,regular
+356780061,name,Turney Knob,regular
+356780061,natural,peak,regular
+356780061,created,05/19/1980,gnis
+356780061,state_id,47,gnis
+356780061,county_id,189,gnis
+356780061,feature_id,1273095,gnis
+356782076,ele,367,regular
+356782076,name,Weber Hill,regular
+356782076,natural,peak,regular
+356782076,created,05/19/1980,gnis
+356782076,state_id,47,gnis
+356782076,county_id,015,gnis
+356782076,feature_id,1274048,gnis
+356783407,ele,221,regular
+356783407,name,Winsett Cemetery,regular
+356783407,amenity,grave_yard,regular
+356783407,created,05/19/1980,gnis
+356783407,state_id,47,gnis
+356783407,county_id,003,gnis
+356783407,feature_id,1274886,gnis
+356785306,ele,150,regular
+356785306,name,Anderson Cemetery,regular
+356785306,amenity,grave_yard,regular
+356785306,created,05/19/1980,gnis
+356785306,state_id,47,gnis
+356785306,county_id,081,gnis
+356785306,feature_id,1275702,gnis
+356786906,ele,162,regular
+356786906,name,Beasley Cemetery,regular
+356786906,amenity,grave_yard,regular
+356786906,created,05/19/1980,gnis
+356786906,state_id,47,gnis
+356786906,county_id,159,gnis
+356786906,feature_id,1276680,gnis
+356788589,ele,132,regular
+356788589,name,Blackwell Cemetery,regular
+356788589,amenity,grave_yard,regular
+356788589,created,05/19/1980,gnis
+356788589,state_id,47,gnis
+356788589,county_id,081,gnis
+356788589,feature_id,1277625,gnis
+356790652,ele,323,regular
+356790652,name,Bryan Cemetery,regular
+356790652,amenity,grave_yard,regular
+356790652,created,05/19/1980,gnis
+356790652,state_id,47,gnis
+356790652,county_id,031,gnis
+356790652,feature_id,1278730,gnis
+356793420,ele,144,regular
+356793420,name,Cedar Grove Church,regular
+356793420,amenity,place_of_worship,regular
+356793420,religion,christian,regular
+356793420,created,05/19/1980,gnis
+356793420,state_id,47,gnis
+356793420,county_id,189,gnis
+356793420,feature_id,1280051,gnis
+356795718,ele,280,regular
+356795718,name,Collins Hill,regular
+356795718,natural,peak,regular
+356795718,created,05/19/1980,gnis
+356795718,state_id,47,gnis
+356795718,county_id,119,gnis
+356795718,feature_id,1281009,gnis
+356797687,ele,179,regular
+356797687,name,Darden Cemetery,regular
+356797687,amenity,grave_yard,regular
+356797687,created,05/19/1980,gnis
+356797687,state_id,47,gnis
+356797687,county_id,081,gnis
+356797687,feature_id,1282040,gnis
+356799784,ele,237,regular
+356799784,name,Ebenezer Church,regular
+356799784,amenity,place_of_worship,regular
+356799784,religion,christian,regular
+356799784,created,05/19/1980,gnis
+356799784,state_id,47,gnis
+356799784,county_id,111,gnis
+356799784,feature_id,1283481,gnis
+356802028,ele,191,regular
+356802028,name,Fielder Cemetery,regular
+356802028,amenity,grave_yard,regular
+356802028,created,05/19/1980,gnis
+356802028,state_id,47,gnis
+356802028,county_id,043,gnis
+356802028,feature_id,1284241,gnis
+356804919,ele,286,regular
+356804919,name,George Cemetery,regular
+356804919,amenity,grave_yard,regular
+356804919,created,05/19/1980,gnis
+356804919,state_id,47,gnis
+356804919,county_id,003,gnis
+356804919,feature_id,1285294,gnis
+356809408,ele,227,regular
+356809408,name,Harvey Cemetery,regular
+356809408,amenity,grave_yard,regular
+356809408,created,05/19/1980,gnis
+356809408,state_id,47,gnis
+356809408,county_id,119,gnis
+356809408,feature_id,1287070,gnis
+356811467,ele,187,regular
+356811467,name,Hollis-Nanny Cemetery,regular
+356811467,amenity,grave_yard,regular
+356811467,created,05/19/1980,gnis
+356811467,state_id,47,gnis
+356811467,county_id,125,gnis
+356811467,feature_id,1288077,gnis
+356812870,ele,202,regular
+356812870,name,Jackson Cemetery,regular
+356812870,amenity,grave_yard,regular
+356812870,created,05/19/1980,gnis
+356812870,state_id,47,gnis
+356812870,county_id,043,gnis
+356812870,feature_id,1289205,gnis
+356814395,ele,164,regular
+356814395,name,Key Church,regular
+356814395,amenity,place_of_worship,regular
+356814395,religion,christian,regular
+356814395,created,05/19/1980,gnis
+356814395,state_id,47,gnis
+356814395,county_id,165,gnis
+356814395,feature_id,1290126,gnis
+356816611,ele,237,regular
+356816611,name,Liberty Hill Church,regular
+356816611,amenity,place_of_worship,regular
+356816611,religion,christian,regular
+356816611,created,05/19/1980,gnis
+356816611,state_id,47,gnis
+356816611,county_id,189,gnis
+356816611,feature_id,1291157,gnis
+356818250,ele,201,regular
+356818250,name,Maguire Cemetery,regular
+356818250,amenity,grave_yard,regular
+356818250,created,05/19/1980,gnis
+356818250,state_id,47,gnis
+356818250,county_id,119,gnis
+356818250,feature_id,1292504,gnis
+356819735,ele,178,regular
+356819735,name,McMurtry Cemetery,regular
+356819735,amenity,grave_yard,regular
+356819735,created,05/19/1980,gnis
+356819735,state_id,47,gnis
+356819735,county_id,165,gnis
+356819735,feature_id,1293428,gnis
+356821675,ele,272,regular
+356821675,name,Mount Lavergne School,regular
+356821675,amenity,school,regular
+356821675,created,05/19/1980,gnis
+356821675,state_id,47,gnis
+356821675,county_id,187,gnis
+356821675,feature_id,1294658,gnis
+356823217,ele,165,regular
+356823217,name,Nevel Chapel,regular
+356823217,amenity,place_of_worship,regular
+356823217,religion,christian,regular
+356823217,created,05/19/1980,gnis
+356823217,state_id,47,gnis
+356823217,county_id,125,gnis
+356823217,feature_id,1295411,gnis
+356825167,ele,238,regular
+356825167,name,Old Fountain Head Cemetery,regular
+356825167,amenity,grave_yard,regular
+356825167,created,05/19/1980,gnis
+356825167,state_id,47,gnis
+356825167,county_id,165,gnis
+356825167,feature_id,1296309,gnis
+356826604,ele,175,regular
+356826604,name,Petty Cemetery,regular
+356826604,amenity,grave_yard,regular
+356826604,created,05/19/1980,gnis
+356826604,state_id,47,gnis
+356826604,county_id,081,gnis
+356826604,feature_id,1297277,gnis
+356828077,ele,163,regular
+356828077,name,Porters Chapel,regular
+356828077,amenity,place_of_worship,regular
+356828077,religion,christian,regular
+356828077,created,05/19/1980,gnis
+356828077,state_id,47,gnis
+356828077,county_id,147,gnis
+356828077,feature_id,1298274,gnis
+356829615,ele,269,regular
+356829615,name,Renegar Cemetery,regular
+356829615,amenity,grave_yard,regular
+356829615,created,05/19/1980,gnis
+356829615,state_id,47,gnis
+356829615,county_id,003,gnis
+356829615,feature_id,1299213,gnis
+356831329,ele,183,regular
+356831329,name,Rutland School,regular
+356831329,amenity,school,regular
+356831329,created,05/19/1980,gnis
+356831329,state_id,47,gnis
+356831329,county_id,189,gnis
+356831329,feature_id,1300364,gnis
+356834085,ele,241,regular
+356834085,name,Piuge Brothers Lake,regular
+356834085,landuse,reservoir,regular
+356834085,created,08/01/1991,gnis
+356834085,state_id,47,gnis
+356834085,county_id,117,gnis
+356834085,feature_id,1301827,gnis
+356835773,ele,234,regular
+356835773,name,Cedar Crest Camp Lake,regular
+356835773,landuse,reservoir,regular
+356835773,created,08/01/1991,gnis
+356835773,state_id,47,gnis
+356835773,county_id,081,gnis
+356835773,feature_id,1302203,gnis
+356837963,ele,257,regular
+356837963,name,Pine Lake,regular
+356837963,landuse,reservoir,regular
+356837963,created,08/01/1991,gnis
+356837963,state_id,47,gnis
+356837963,county_id,165,gnis
+356837963,feature_id,1302675,gnis
+356840333,ele,330,regular
+356840333,name,Trinity Baptist Church,regular
+356840333,amenity,place_of_worship,regular
+356840333,religion,christian,regular
+356840333,edited,04/10/2007,gnis
+356840333,denomination,baptist,regular
+356840333,created,05/19/1980,gnis
+356840333,state_id,47,gnis
+356840333,county_id,031,gnis
+356840333,feature_id,1304167,gnis
+356842748,ele,159,regular
+356842748,name,Bakers Grove Church,regular
+356842748,amenity,place_of_worship,regular
+356842748,religion,christian,regular
+356842748,created,05/19/1980,gnis
+356842748,state_id,47,gnis
+356842748,county_id,037,gnis
+356842748,feature_id,1304934,gnis
+356844163,ele,171,regular
+356844163,name,Central Pike Church,regular
+356844163,amenity,place_of_worship,regular
+356844163,religion,christian,regular
+356844163,created,05/19/1980,gnis
+356844163,state_id,47,gnis
+356844163,county_id,037,gnis
+356844163,feature_id,1305828,gnis
+356845105,ele,283,regular
+356845105,name,Hill Town Church,regular
+356845105,amenity,place_of_worship,regular
+356845105,religion,christian,regular
+356845105,created,05/19/1980,gnis
+356845105,state_id,47,gnis
+356845105,county_id,119,gnis
+356845105,feature_id,1306573,gnis
+356845694,ele,284,regular
+356845694,name,Pisgah Church,regular
+356845694,amenity,place_of_worship,regular
+356845694,religion,christian,regular
+356845694,created,05/19/1980,gnis
+356845694,state_id,47,gnis
+356845694,county_id,119,gnis
+356845694,feature_id,1306900,gnis
+356848844,ele,156,regular
+356848844,name,Russell Creek Church (historical),regular
+356848844,amenity,place_of_worship,regular
+356848844,religion,christian,regular
+356848844,created,05/01/1989,gnis
+356848844,state_id,47,gnis
+356848844,county_id,135,gnis
+356848844,feature_id,1308611,gnis
+356850175,ele,184,regular
+356850175,name,Smith Cemetery,regular
+356850175,amenity,grave_yard,regular
+356850175,created,05/01/1989,gnis
+356850175,state_id,47,gnis
+356850175,county_id,101,gnis
+356850175,feature_id,1309484,gnis
+356851427,ele,269,regular
+356851427,name,Negro Hill,regular
+356851427,natural,peak,regular
+356851427,created,04/01/1990,gnis
+356851427,state_id,47,gnis
+356851427,county_id,119,gnis
+356851427,feature_id,1313517,gnis
+356851827,ele,238,regular
+356851827,name,Foutch Cemetery,regular
+356851827,amenity,grave_yard,regular
+356851827,created,05/19/1980,gnis
+356851827,state_id,47,gnis
+356851827,county_id,041,gnis
+356851827,feature_id,1313932,gnis
+356852445,ele,326,regular
+356852445,name,Ward Chapel School (historical),regular
+356852445,amenity,school,regular
+356852445,created,07/01/1989,gnis
+356852445,state_id,47,gnis
+356852445,county_id,031,gnis
+356852445,feature_id,1316073,gnis
+356854485,ele,177,regular
+356854485,name,Holland School (historical),regular
+356854485,amenity,school,regular
+356854485,created,09/01/1989,gnis
+356854485,state_id,47,gnis
+356854485,county_id,085,gnis
+356854485,feature_id,1316948,gnis
+356862282,ele,257,regular
+356862282,name,Mount Gossett School (historical),regular
+356862282,amenity,school,regular
+356862282,created,10/01/1989,gnis
+356862282,state_id,47,gnis
+356862282,county_id,081,gnis
+356862282,feature_id,1319110,gnis
+356862897,ele,266,regular
+356862897,name,Elkins Cemetery,regular
+356862897,amenity,grave_yard,regular
+356862897,created,11/01/1989,gnis
+356862897,state_id,47,gnis
+356862897,county_id,003,gnis
+356862897,feature_id,1319303,gnis
+356863434,ele,247,regular
+356863434,name,Normandy First Baptist Church,regular
+356863434,amenity,place_of_worship,regular
+356863434,religion,christian,regular
+356863434,denomination,baptist,regular
+356863434,created,11/01/1989,gnis
+356863434,state_id,47,gnis
+356863434,county_id,003,gnis
+356863434,feature_id,1319428,gnis
+356863890,ele,274,regular
+356863890,name,Waite-Friendship Cemetery,regular
+356863890,amenity,grave_yard,regular
+356863890,created,11/01/1989,gnis
+356863890,state_id,47,gnis
+356863890,county_id,003,gnis
+356863890,feature_id,1319546,gnis
+356864394,ele,164,regular
+356864394,name,Porter Bluff Park (historical),regular
+356864394,leisure,park,regular
+356864394,created,11/01/1989,gnis
+356864394,state_id,47,gnis
+356864394,county_id,125,gnis
+356864394,feature_id,1319696,gnis
+356868030,ele,262,regular
+356868030,name,First Baptist Church of White House,regular
+356868030,amenity,place_of_worship,regular
+356868030,religion,christian,regular
+356868030,denomination,baptist,regular
+356868030,created,11/01/1989,gnis
+356868030,state_id,47,gnis
+356868030,county_id,165,gnis
+356868030,feature_id,1320620,gnis
+356869155,ele,164,regular
+356869155,name,Falling Water School (historical),regular
+356869155,amenity,school,regular
+356869155,created,11/01/1989,gnis
+356869155,state_id,47,gnis
+356869155,county_id,159,gnis
+356869155,feature_id,1321109,gnis
+356871233,ele,260,regular
+356871233,name,Greenbrier School (historical),regular
+356871233,amenity,school,regular
+356871233,created,02/01/1990,gnis
+356871233,state_id,47,gnis
+356871233,county_id,187,gnis
+356871233,feature_id,1321935,gnis
+356872631,ele,197,regular
+356872631,name,Hayes School (historical),regular
+356872631,amenity,school,regular
+356872631,created,01/01/1990,gnis
+356872631,state_id,47,gnis
+356872631,county_id,041,gnis
+356872631,feature_id,1322565,gnis
+356875243,ele,149,regular
+356875243,name,Shutes Branch Recreation Area,regular
+356875243,leisure,park,regular
+356875243,created,03/01/1990,gnis
+356875243,state_id,47,gnis
+356875243,county_id,189,gnis
+356875243,feature_id,1323252,gnis
+356876200,ele,193,regular
+356876200,name,Kittrell Elementary School,regular
+356876200,amenity,school,regular
+356876200,created,03/01/1990,gnis
+356876200,state_id,47,gnis
+356876200,county_id,149,gnis
+356876200,feature_id,1323511,gnis
+356876828,ele,209,regular
+356876828,name,Howard Field Park,regular
+356876828,leisure,park,regular
+356876828,created,04/01/1990,gnis
+356876828,state_id,47,gnis
+356876828,county_id,119,gnis
+356876828,feature_id,1323709,gnis
+356878308,ele,181,regular
+356878308,name,Oak Hill School (historical),regular
+356878308,amenity,school,regular
+356878308,created,02/01/1990,gnis
+356878308,state_id,47,gnis
+356878308,county_id,043,gnis
+356878308,feature_id,1324157,gnis
+356878614,ele,192,regular
+356878614,name,Site of Belleview Elementary School (c1958-c1968),regular
+356878614,source,MNPS,regular
+356878614,amenity,school,regular
+356878614,designation,Colored School,regular
+356878614,created,03/01/1990,gnis
+356878614,state_id,47,gnis
+356878614,county_id,037,gnis
+356878614,feature_id,1324301,gnis
+356879058,ele,152,regular
+356879058,name,East Side Church of Christ,regular
+356879058,amenity,place_of_worship,regular
+356879058,religion,christian,regular
+356879058,created,03/01/1990,gnis
+356879058,state_id,47,gnis
+356879058,county_id,037,gnis
+356879058,feature_id,1324430,gnis
+356879295,ele,155,regular
+356879295,name,Holy Rosary Catholic Church,regular
+356879295,amenity,place_of_worship,regular
+356879295,religion,christian,regular
+356879295,created,03/01/1990,gnis
+356879295,state_id,47,gnis
+356879295,county_id,037,gnis
+356879295,feature_id,1324559,gnis
+356879471,ele,175,regular
+356879471,name,Park Avenue Church of Christ,regular
+356879471,amenity,place_of_worship,regular
+356879471,religion,christian,regular
+356879471,created,03/01/1990,gnis
+356879471,state_id,47,gnis
+356879471,county_id,037,gnis
+356879471,feature_id,1324675,gnis
+356879660,ele,210,regular
+356879660,name,Una Elementary School (1987),regular
+356879660,source,MNPS,regular
+356879660,amenity,school,regular
+356879660,designation,Elementary School,regular
+356879660,created,03/01/1990,gnis
+356879660,state_id,47,gnis
+356879660,county_id,037,gnis
+356879660,feature_id,1324805,gnis
+356882311,ele,144,regular
+356882311,name,Bold Springs School (historical),regular
+356882311,amenity,school,regular
+356882311,created,06/01/1990,gnis
+356882311,state_id,47,gnis
+356882311,county_id,085,gnis
+356882311,feature_id,1326202,gnis
+356882639,ele,153,regular
+356882639,name,New Life Baptist Church,regular
+356882639,amenity,place_of_worship,regular
+356882639,religion,christian,regular
+356882639,denomination,southern_baptist,regular
+356882639,created,06/01/1990,gnis
+356882639,state_id,47,gnis
+356882639,county_id,037,gnis
+356882639,feature_id,1326372,gnis
+356886645,ele,306,regular
+356886645,name,WVCP-FM (Gallatin),regular
+356886645,man_made,tower,regular
+356886645,created,08/01/1991,gnis
+356886645,state_id,47,gnis
+356886645,county_id,165,gnis
+356886645,feature_id,1640131,gnis
+356890172,ele,329,regular
+356890172,name,Blantons School (historical),regular
+356890172,amenity,school,regular
+356890172,created,07/01/1989,gnis
+356890172,state_id,47,gnis
+356890172,county_id,031,gnis
+356890172,feature_id,1643841,gnis
+356890805,ele,177,regular
+356890805,name,Cross Cemetery,regular
+356890805,amenity,grave_yard,regular
+356890805,created,07/01/1989,gnis
+356890805,state_id,47,gnis
+356890805,county_id,147,gnis
+356890805,feature_id,1644220,gnis
+356891117,ele,251,regular
+356891117,name,Jernigan Cemetery,regular
+356891117,amenity,grave_yard,regular
+356891117,created,08/01/1989,gnis
+356891117,state_id,47,gnis
+356891117,county_id,147,gnis
+356891117,feature_id,1644323,gnis
+356891330,ele,186,regular
+356891330,name,Sherrod Cemetery,regular
+356891330,amenity,grave_yard,regular
+356891330,created,08/01/1989,gnis
+356891330,state_id,47,gnis
+356891330,county_id,147,gnis
+356891330,feature_id,1644426,gnis
+356891973,ele,153,regular
+356891973,name,Niagara Shoals,regular
+356891973,waterway,rapids,regular
+356891973,created,12/01/1989,gnis
+356891973,state_id,47,gnis
+356891973,county_id,087,gnis
+356891973,feature_id,1645075,gnis
+356893062,ele,227,regular
+356893062,name,Downing Cemetery,regular
+356893062,amenity,grave_yard,regular
+356893062,created,03/01/1990,gnis
+356893062,state_id,47,gnis
+356893062,county_id,149,gnis
+356893062,feature_id,1645614,gnis
+356893238,ele,187,regular
+356893238,name,Johns Cemetery,regular
+356893238,amenity,grave_yard,regular
+356893238,created,03/01/1990,gnis
+356893238,state_id,47,gnis
+356893238,county_id,149,gnis
+356893238,feature_id,1645724,gnis
+356893414,amenity,grave_yard,regular
+356893414,ele,212,regular
+356893414,county_id,149,gnis
+356893414,created,03/01/1990,gnis
+356893414,feature_id,1645842,gnis
+356893414,state_id,47,gnis
+356893414,name,Noe Cemetery,regular
+356893558,ele,202,regular
+356893558,name,Thompson Cemetery,regular
+356893558,amenity,grave_yard,regular
+356893558,created,03/01/1990,gnis
+356893558,state_id,47,gnis
+356893558,county_id,149,gnis
+356893558,feature_id,1645965,gnis
+356893908,ele,216,regular
+356893908,name,Brown Cemetery,regular
+356893908,amenity,grave_yard,regular
+356893908,created,04/01/1990,gnis
+356893908,state_id,47,gnis
+356893908,county_id,119,gnis
+356893908,feature_id,1646146,gnis
+356894166,ele,223,regular
+356894166,name,Johnston Cemetery,regular
+356894166,amenity,grave_yard,regular
+356894166,created,04/01/1990,gnis
+356894166,state_id,47,gnis
+356894166,county_id,119,gnis
+356894166,feature_id,1646287,gnis
+356894408,ele,202,regular
+356894408,name,Mount Joy Cumberland Presbyterian Church,regular
+356894408,amenity,place_of_worship,regular
+356894408,religion,christian,regular
+356894408,denomination,presbyterian,regular
+356894408,created,04/01/1990,gnis
+356894408,state_id,47,gnis
+356894408,county_id,119,gnis
+356894408,feature_id,1646469,gnis
+356894665,ele,238,regular
+356894665,name,Mount Olive Baptist Church,regular
+356894665,amenity,place_of_worship,regular
+356894665,religion,christian,regular
+356894665,denomination,baptist,regular
+356894665,created,09/01/1990,gnis
+356894665,state_id,47,gnis
+356894665,county_id,165,gnis
+356894665,feature_id,1646696,gnis
+356895374,ele,149,regular
+356895374,name,Richland Freewill Baptist Church,regular
+356895374,amenity,place_of_worship,regular
+356895374,religion,christian,regular
+356895374,denomination,baptist,regular
+356895374,created,09/01/1990,gnis
+356895374,state_id,47,gnis
+356895374,county_id,037,gnis
+356895374,feature_id,1647879,gnis
+356896490,ele,152,regular
+356896490,name,Pennington Elementary School,regular
+356896490,amenity,school,regular
+356896490,created,08/01/1991,gnis
+356896490,state_id,47,gnis
+356896490,county_id,037,gnis
+356896490,feature_id,1648463,gnis
+356897957,ele,221,regular
+356897957,name,Lewisburg Post Office,regular
+356897957,amenity,post_office,regular
+356897957,created,08/01/1989,gnis
+356897957,state_id,47,gnis
+356897957,county_id,117,gnis
+356897957,feature_id,1652597,gnis
+356898596,ele,252,regular
+356898596,name,Elias McDonald Cemetery,regular
+356898596,amenity,grave_yard,regular
+356898596,created,03/13/2006,gnis
+356898596,state_id,47,gnis
+356898596,county_id,111,gnis
+356898596,feature_id,2084564,gnis
+356900444,ele,162,regular
+356900444,name,Smith Springs Church of Christ,regular
+356900444,amenity,place_of_worship,regular
+356900444,religion,christian,regular
+356900444,created,06/24/2008,gnis
+356900444,state_id,47,gnis
+356900444,county_id,037,gnis
+356900444,feature_id,2453635,gnis
+356900732,ele,135,regular
+356900732,name,Greater First Street Baptist Church,regular
+356900732,amenity,place_of_worship,regular
+356900732,religion,christian,regular
+356900732,denomination,baptist,regular
+356900732,created,06/24/2008,gnis
+356900732,state_id,47,gnis
+356900732,county_id,037,gnis
+356900732,feature_id,2453740,gnis
+356901114,ele,180,regular
+356901114,name,Zion Christian Center,regular
+356901114,amenity,place_of_worship,regular
+356901114,created,06/24/2008,gnis
+356901114,state_id,47,gnis
+356901114,county_id,037,gnis
+356901114,feature_id,2453938,gnis
+356901532,ele,139,regular
+356901532,name,Two Rivers Baptist Church Preschool,regular
+356901532,amenity,school,regular
+356901532,created,06/24/2008,gnis
+356901532,state_id,47,gnis
+356901532,county_id,037,gnis
+356901532,feature_id,2454135,gnis
+368157146,ele,137,regular
+368157146,name,Fifteenth Avenue Baptist Church Centerplex,regular
+368157146,source,USGS Geonames,regular
+368157146,building,yes,regular
+368157146,state,TN,addr
+368157146,reviewed,no,gnis
+368157146,feature_id,2453864,gnis
+368157146,county_name,Davidson,gnis
+368157146,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368157564,ele,290,regular
+368157564,name,Lafayette City Hall,regular
+368157564,source,USGS Geonames,regular
+368157564,amenity,townhall,regular
+368157564,state,TN,addr
+368157564,reviewed,no,gnis
+368157564,feature_id,1316342,gnis
+368157564,county_name,Macon,gnis
+368157564,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368158002,ele,145,regular
+368158002,name,Daniel T Rolfe Student Center,regular
+368158002,source,USGS Geonames,regular
+368158002,building,yes,regular
+368158002,state,TN,addr
+368158002,reviewed,no,gnis
+368158002,feature_id,2453849,gnis
+368158002,county_name,Davidson,gnis
+368158002,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368993774,ele,278,regular
+368993774,name,Smith Bank Number Three Prospect,regular
+368993774,landuse,quarry,regular
+368993774,state,TN,addr
+368993774,created,05/01/1989,gnis
+368993774,feature_id,1309483,gnis
+368993774,county_name,Lewis,gnis
+368993774,feature_type,Mine,gnis
+368995051,ele,256,regular
+368995051,name,Montgomery Bell Ore Banks,regular
+368995051,landuse,quarry,regular
+368995051,state,TN,addr
+368995051,created,02/01/1990,gnis
+368995051,feature_id,1324140,gnis
+368995051,county_name,Dickson,gnis
+368995051,feature_type,Mine,gnis
+585377347,name,Hickman Quarry,regular
+585377347,note,"Record <a href=""http://tin.er.usgs.gov/mineplant/show.php?labno=2394"">2394</a> of the <a href=""http://tin.er.usgs.gov/mineplant/"">Active mines and mineral plants in the US</a>",regular
+585377347,landuse,quarry,regular
+585377347,man_made,mine,regular
+761578743,highway,turning_circle,regular
+761667233,name,Roma Pizza and Subs,regular
+761667233,amenity,fast_food,regular
+1001020159,name,Robert A. Ring Indoor Soccer Arena,regular
+1001020159,leisure,sports_centre,regular
+1042089010,name,Triune Airfield,regular
+1042089010,source,ourairports.com,regular
+1042089010,aeroway,aerodrome,regular
+1186711268,name,centennial arena,regular
+1229557623,power,tower,regular
+1229576341,power,tower,regular
+1229607913,power,tower,regular
+1229702451,power,tower,regular
+1229703052,power,tower,regular
+1229724131,power,tower,regular
+1230197089,power,tower,regular
+1230205372,power,tower,regular
+1230209026,power,tower,regular
+1230214553,power,tower,regular
+1230222212,power,tower,regular
+1230250248,power,tower,regular
+1230368447,power,tower,regular
+1230666218,power,tower,regular
+1231331219,power,tower,regular
+1231388407,power,tower,regular
+1231431882,power,pole,regular
+1231697262,power,tower,regular
+1231943811,power,tower,regular
+1231951401,power,tower,regular
+1232515369,power,tower,regular
+1232602556,power,tower,regular
+1232860845,power,tower,regular
+1232860985,power,tower,regular
+1232946488,power,tower,regular
+1232946779,power,tower,regular
+1233659852,power,pole,regular
+1233660276,power,pole,regular
+1233660677,power,pole,regular
+1233761929,power,pole,regular
+1233762174,power,pole,regular
+1233809448,power,tower,regular
+1233809567,power,tower,regular
+1233809775,power,tower,regular
+1233850059,power,pole,regular
+1234348928,power,pole,regular
+1234608859,power,tower,regular
+1234609173,power,tower,regular
+1234628779,power,pole,regular
+1234639635,power,tower,regular
+1234688686,power,pole,regular
+1234964080,power,pole,regular
+1235024938,ref,21,regular
+1235024938,power,tower,regular
+1235699006,power,tower,regular
+1235708633,ref,16,regular
+1235708633,power,tower,regular
+1235737588,power,tower,regular
+1235913493,power,tower,regular
+1236196099,power,pole,regular
+1236199283,power,tower,regular
+1236199283,colour,gray,regular
+1236199283,design,bipole,regular
+1236199283,material,metal,regular
+1236199283,operator,TVA,regular
+1236199283,structure,tubular,regular
+1236199283,triple_tower,yes,regular
+1237630344,power,tower,regular
+1237755319,power,tower,regular
+1238080377,power,tower,regular
+1241354601,highway,turning_circle,regular
+1298136216,source,Bing,regular
+1298136216,highway,turning_circle,regular
+1314683500,city,Pleasent View,addr
+1314683500,housenumber,6308,addr
+1314683500,postcode,37146,addr
+1314683500,state,TN,addr
+1314683500,street,Highway 41A,addr
+1314683500,name,"Golly G's Coffee, Ice Cream & Sweets",regular
+1314683500,opening_hours,"M-F 6-10, Sat. 8-10, Sun. 12-9",regular
+1314683500,shop,coffee,regular
+1514446447,highway,stop,regular
+1514629672,railway,level_crossing,regular
+1562662609,power,tower,regular
+1676157666,name,Boat Launch,regular
+1676157666,leisure,slipway,regular
+1695279397,highway,turning_circle,regular
+1709275214,power,tower,regular
+1758046388,power,tower,regular
+1758046489,power,tower,regular
+1758046589,power,tower,regular
+1758046792,power,tower,regular
+1758046892,power,tower,regular
+1758046992,power,tower,regular
+1758047092,power,tower,regular
+1758047227,power,tower,regular
+1758782120,power,tower,regular
+1758782220,power,tower,regular
+1786257640,source,Bing,regular
+1786257640,highway,turning_circle,regular
+1910699909,highway,turning_circle,regular
+1913884067,ref,57B,regular
+1913884067,highway,motorway_junction,regular
+1929554614,highway,turning_circle,regular
+1945400529,name,Target,regular
+1945400529,shop,supermarket,regular
+1960609293,name,Kay Bob's,regular
+1960609293,amenity,restaurant,regular
+1960609293,cuisine,sandwich,regular
+2000908606,power,tower,regular
+2000908846,power,tower,regular
+2000909541,power,tower,regular
+2001370844,power,tower,regular
+2001723169,power,tower,regular
+2001723310,power,tower,regular
+2001723528,power,tower,regular
+2001723680,power,tower,regular
+2001723780,power,tower,regular
+2001723884,power,tower,regular
+2002842088,power,tower,regular
+2002842771,power,tower,regular
+2004748598,power,tower,regular
+2018577098,highway,turning_circle,regular
+2022559048,highway,turning_circle,regular
+2023785828,power,pole,regular
+2023785934,power,pole,regular
+2030995028,name,Crown Ford,regular
+2030995028,shop,car,regular
+2030995028,website,http://crownford.com/,regular
+2030995028,street,Thompson Lane,addr
+2030995028,postcode,37204,addr
+2030995028,housenumber,646,addr
+2034766626,power,tower,regular
+2034766776,power,tower,regular
+2035037447,power,tower,regular
+2035037683,power,pole,regular
+2035037941,power,pole,regular
+2035038126,power,pole,regular
+2037117380,note,no wires installed,regular
+2037117380,power,tower,regular
+2037117380,abandoned,yes,regular
+2037117602,note,no wires installed,regular
+2037117602,power,tower,regular
+2037117602,abandoned,yes,regular
+2038770373,power,pole,regular
+2038770564,power,pole,regular
+2045046530,name,Grassmere Animal Hospital,regular
+2045046530,amenity,veterinary,regular
+2045046530,website,http://www.grassmereanimalhospital.com/,regular
+2045046530,street,Nolensville Pike,addr
+2045046530,postcode,37211,addr
+2045046530,housename,Grassmere Animal Hospital,addr
+2045046530,housenumber,3926,addr
+2053894862,highway,turning_circle,regular
+2076465314,power,pole,regular
+2080967512,source,Bing,regular
+2080967512,highway,turning_circle,regular
+2127286723,highway,turning_circle,regular
+2142462066,power,tower,regular
+2142462066,source,Bing,regular
+2142462432,power,tower,regular
+2142462972,power,pole,regular
+2142463186,power,pole,regular
+2142463399,power,pole,regular
+2142464548,power,tower,regular
+2142662026,power,pole,regular
+2142662565,power,pole,regular
+2142663132,power,pole,regular
+2142663568,power,pole,regular
+2142664052,power,tower,regular
+2142664152,power,tower,regular
+2146398774,power,tower,regular
+2146399632,power,tower,regular
+2146399632,source,Bing,regular
+2151998715,power,pole,regular
+2152000902,power,pole,regular
+2152001688,power,pole,regular
+2152002095,power,pole,regular
+2152002266,power,pole,regular
+2152339546,power,tower,regular
+2152340681,power,pole,regular
+2152342719,power,pole,regular
+2152343713,power,pole,regular
+2152346022,power,pole,regular
+2152346177,power,pole,regular
+2152346360,power,pole,regular
+2152490587,power,pole,regular
+2152491292,power,pole,regular
+2159272240,power,tower,regular
+2161672864,power,tower,regular
+2162519228,power,pole,regular
+2177058446,power,pole,regular
+2177058902,power,pole,regular
+2177059252,power,pole,regular
+2177059529,power,pole,regular
+2177059670,power,tower,regular
+2177282221,power,pole,regular
+2179603832,power,tower,regular
+2179604124,power,tower,regular
+2179707331,power,tower,regular
+2179707511,power,pole,regular
+2179707739,power,tower,regular
+2179707948,power,pole,regular
+2179893942,power,pole,regular
+2179894141,power,pole,regular
+2179894302,power,pole,regular
+2179894523,power,tower,regular
+2181132299,power,pole,regular
+2181132467,power,pole,regular
+2181215019,power,pole,regular
+2181215198,power,pole,regular
+2181215657,power,pole,regular
+2181298945,power,pole,regular
+2181954017,power,pole,regular
+2181955994,power,pole,regular
+2181958397,power,pole,regular
+2181960388,power,pole,regular
+2181962121,power,pole,regular
+2182110060,power,tower,regular
+2182378613,power,pole,regular
+2182379121,power,pole,regular
+2182379228,power,pole,regular
+2182379380,power,pole,regular
+2182379483,power,pole,regular
+2182379621,power,pole,regular
+2182379733,power,pole,regular
+2182380073,power,pole,regular
+2182442567,power,pole,regular
+2183217344,power,pole,regular
+2183254330,power,pole,regular
+2184078663,power,pole,regular
+2186187011,power,pole,regular
+2186188720,power,pole,regular
+2186275063,power,pole,regular
+2187509728,power,pole,regular
+2187510621,power,pole,regular
+2187511572,power,tower,regular
+2187512388,power,pole,regular
+2188844548,power,pole,regular
+2188844749,power,pole,regular
+2188845603,power,pole,regular
+2188846422,power,pole,regular
+2188846702,power,pole,regular
+2188847098,power,pole,regular
+2188847807,power,pole,regular
+2188864531,power,pole,regular
+2190217761,power,pole,regular
+2190218863,power,pole,regular
+2190219807,power,pole,regular
+2190220063,power,pole,regular
+2190220404,power,pole,regular
+2190222367,power,pole,regular
+2294881588,name,Publix,regular
+2294881588,shop,supermarket,regular
+2294881588,city,"Murfreesboro, TN",addr
+2294881588,street,South Rutherford Boulevard,addr
+2294881588,postcode,37130,addr
+2294881588,housenumber,1731,addr
+2330312926,highway,turning_circle,regular
+2392992227,name,Dollar General,regular
+2392992227,shop,convenience,regular
+2426725891,highway,turning_circle,regular
+2474403304,highway,turning_circle,regular
+2478045868,highway,turning_circle,regular
+2478050480,highway,turning_circle,regular
+2479129189,highway,turning_circle,regular
+2502203131,name,Taco Bell and Pizza Hut,regular
+2502203131,amenity,fast_food,regular
+2502203131,street,Northwest Broad Street,addr
+2502203131,postcode,37129,addr
+2502203131,housenumber,1301,addr
+2560831694,highway,turning_circle,regular
+2584261942,highway,turning_circle,regular
+2585402520,highway,turning_circle,regular
+2597488634,highway,turning_circle,regular
+2658718135,highway,turning_circle,regular
+2678406162,power,pole,regular
+2748311480,highway,turning_circle,regular
+2752047621,man_made,tower,regular
+2752047621,type,communication,tower
+2766130579,highway,turning_circle,regular
+2775974533,railway,level_crossing,regular
+2894832728,highway,turning_circle,regular
+2969255809,leisure,slipway,regular
+2974983427,highway,turning_circle,regular
+2986008093,name,Target,regular
+2986008093,shop,department_store,regular
+2986008093,city,Murfreesboro,addr
+2986008093,street,Old Fort Parkway,addr
+2986008093,postcode,37129,addr
+2986008093,housenumber,1851,addr
+2990310542,name,Eclips Barbershop and Salon,regular
+2990310542,phone,6158674433,regular
+2990310542,city,Murfreesboro,addr
+2990310542,street,Northwest Broad Street,addr
+2990310542,postcode,37129,addr
+2990310542,bitcoin,yes,payment
+2990310542,housenumber,1803,addr
+3056787338,kerb,lowered,regular
+3056787338,highway,crossing,regular
+3102117050,highway,traffic_signals,regular
+3102117050,direction,forward,traffic_signals
+3130841717,highway,stop,regular
+3130841717,direction,forward,regular
+3130842401,entrance,emergency,regular
+3130842702,entrance,emergency,regular
+3136198257,highway,turning_circle,regular
+3197262021,name,Immanuel Nashville,regular
+3197262021,amenity,place_of_worship,regular
+3197262021,religion,christian,regular
+3197262021,street,Charlotte Avenue,addr
+3197262021,housenumber,4301,addr
+3221925328,side,right,regular
+3221925328,highway,stop,regular
+3221925328,direction,forward,regular
+3228668743,power,pole,regular
+3228668743,material,wood,regular
+3228815893,power,pole,regular
+3228815893,material,wood,regular
+3236427503,natural,tree,regular
+3243736672,highway,passing_place,regular
+3248625204,power,pole,regular
+3248625204,source,Bing,regular
+3376581730,highway,stop,regular
+3376581730,direction,backward,regular
+3377987495,barrier,bollard,regular
+3381784604,reviewed,yes,tiger
+3383224089,natural,tree,regular
+3383224741,highway,crossing,regular
+3383225616,natural,tree,regular
+3434890698,highway,crossing,regular
+3511236415,highway,crossing,regular
+3511236415,crossing,uncontrolled,regular
+3511236415,supervised,no,regular
+3511236415,crossing_ref,zebra,regular
+3536859958,highway,turning_circle,regular
+3599154778,leisure,playground,regular
+3605814091,railway,level_crossing,regular
+3609467892,access,private,regular
+3609467892,barrier,gate,regular
+3742916352,power,pole,regular
+3742916352,branch,Clarksville Department of Electricity,regular
+3742916352,highway,street_lamp,regular
+3742916352,material,wood,regular
+3742916352,operator,TVA,regular
+3786909616,bus,yes,regular
+3786909616,highway,bus_stop,regular
+3786909616,public_transport,stop_position,regular
+3795125386,power,pole,regular
+3795125386,branch,Clarksville Department of Electricity,regular
+3795125386,material,wood,regular
+3801455161,fee,no,regular
+3801455161,lit,yes,regular
+3801455161,access,customers,regular
+3801455161,amenity,bicycle_parking,regular
+3801455161,capacity,6,regular
+3801455161,operator,First Presbyterian Church,regular
+3801455161,supervised,no,regular
+3801455161,bicycle_parking,rack,regular
+3821943746,power,tower,regular
+3821943746,colour,gray,regular
+3821943746,design,bipole,regular
+3821943746,material,metal,regular
+3821943746,operator,TVA,regular
+3821943746,structure,tubular,regular
+3821943746,triple_tower,yes,regular
+3836674016,power,pole,regular
+3836674016,branch,Clarksville Department of Electricity,regular
+3836674016,material,wood,regular
+3836674016,operator,TVA,regular
+3844076453,power,pole,regular
+3844076453,branch,Clarksville Department of Electricity,regular
+3844076453,material,wood,regular
+3844076453,operator,TVA,regular
+3848205968,city,Clarksville,addr
+3848205968,state,TN,addr
+3848205968,street,Chestnut Grove Court,addr
+3848205968,country,US,addr
+3848205968,postcode,37042,addr
+3848205968,housenumber,349,addr
+3856481725,highway,turning_circle,regular
+3861835596,city,Clarksville,addr
+3861835596,state,TN,addr
+3861835596,street,Medallion Circle,addr
+3861835596,country,US,addr
+3861835596,postcode,37042,addr
+3861835596,housenumber,560,addr
+3864259174,highway,stop,regular
+3864259174,direction,backward,regular
+3891137132,city,Clarksville,addr
+3891137132,state,TN,addr
+3891137132,street,Trainer Road,addr
+3891137132,country,US,addr
+3891137132,postcode,37042,addr
+3891137132,housenumber,1491,addr
+3891140385,power,pole,regular
+3891140385,operator,TVA,regular
+3891141009,power,pole,regular
+3891141009,operator,TVA,regular
+3907450178,leisure,picnic_table,regular
+3907451078,foot,yes,regular
+3907451078,barrier,bollard,regular
+3907451078,bicycle,yes,regular
+3907451078,material,wood,regular
+3913712776,side,left,regular
+3913712776,highway,stop,regular
+3913712776,direction,backward,regular
+3915720495,side,right,regular
+3915720495,highway,stop,regular
+3915720495,direction,forward,regular
+3915721014,side,left,regular
+3915721014,highway,stop,regular
+3915721014,direction,backward,regular
+3957550029,side,left,regular
+3957550029,highway,stop,regular
+3957550029,direction,backward,regular
+3962129116,railway,level_crossing,regular
+4375983240,highway,stop,regular
+4375983240,direction,backward,regular
+4395422399,natural,tree,regular
+4395423868,natural,tree,regular
+4439949838,highway,stop,regular
+4439949838,direction,backward,regular
+4439957270,power,pole,regular
+4439957270,operator,TVA,regular
+4449936180,power,pole,regular
+4600298804,highway,turning_loop,regular
+4600670140,highway,street_lamp,regular
+4600670340,highway,street_lamp,regular
+4600828419,highway,street_lamp,regular
+4607163278,highway,street_lamp,regular
+4607163378,highway,street_lamp,regular
+4607739173,power,pole,regular
+4607739173,source,Bing,regular
+4630861361,city,Nashville,addr
+4630861361,housenumber,1700,addr
+4630861361,postcode,37203,addr
+4630861361,state,TN,addr
+4630861361,street,Church Street,addr
+4630861361,amenity,restaurant,regular
+4630861361,name,Clyde's on Church,regular
+4630861361,outdoor_seating,patio,regular
+4630861361,takeaway,yes,regular
