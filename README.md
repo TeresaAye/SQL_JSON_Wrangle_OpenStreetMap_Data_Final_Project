@@ -6,6 +6,8 @@ I used SQL to wrangle the data.
 
 Read the Read_Me_First... file.
 Copy all of the files that I am submitting with this project into the same directory.
+You will also need the Nashville OpenStreetMap Data and call it "myNashvilleOSMdb" because it is 166Mb and too big to load into GitHub, even as a zipped file.
+
 Run the program called “data.py”.
 
 The pdf documents are my project submission and the review by the Udacity team.
